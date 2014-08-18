@@ -14,7 +14,7 @@ Open source programming challege group.
 
 ##### Write up the challenge
 * Create a new wiki page for the challenge
-* Use the same title format as reserving a slot
+* Title it as: `Title - [challenge types]`
 * Include the following sections
   * Description
   * Restrictions (language, resources, libraries, function calls, etc)
