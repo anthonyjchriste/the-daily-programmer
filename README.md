@@ -25,8 +25,8 @@ Open source programming challege group.
 * Create a link from your reserved slot at https://github.com/anthonyjchriste/the-daily-programmer/wiki/Challenges to your recently created wiki page.
 
 ### Submitting challenges
-** Always do a git pull before anything else! **
-** Don't commit binaries! **
+_Always do a git pull before anything else!_  
+_Don't commit binaries!_
 
 ##### Directory structure 
 * Create a new challenge # directory if it does not exist
@@ -42,3 +42,6 @@ Open source programming challege group.
 * Add a README to to `challenges/#/github-username`
 * Describe anything noteable about your solotion
 * Describe any needed dependencies to build (libraries, frameworks, sdks, etc)
+
+##### Commit
+* As above
