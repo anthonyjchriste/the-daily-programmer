@@ -12,5 +12,11 @@
 
 This solution uses a default threshold of 128. It expects a .png file called `i` and outputs a resulting binary .png file to `o`. 
 
+*Solution # 1 input*  
+![https://raw.githubusercontent.com/anthonyjchriste/the-daily-programmer/master/challenges/1/anthonyjchriste/in.png](https://raw.githubusercontent.com/anthonyjchriste/the-daily-programmer/master/challenges/1/anthonyjchriste/in.png)
+
+*Solution # 1 output (t=128)*  
+![https://raw.githubusercontent.com/anthonyjchriste/the-daily-programmer/master/challenges/1/anthonyjchriste/out-t128.png](https://raw.githubusercontent.com/anthonyjchriste/the-daily-programmer/master/challenges/1/anthonyjchriste/out-t128.png)
+
 ##### Needed dependencies
 * JDK 7 or greater
